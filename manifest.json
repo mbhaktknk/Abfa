@@ -1,0 +1,18 @@
+{
+  "id": "./?app=abfa-v2",
+  "name": "مهندسی آب و فاضلاب",
+  "short_name": "آبفا",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef5fb",
+  "theme_color": "#0a4a9e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
